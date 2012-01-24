@@ -16,6 +16,7 @@ Log inspector
 -------------
  
 The project also includes a minimal HTTP server that
+
 * listens for incoming logs from keyloggers, parses them, stores them in a sqlite DB
 * has a web interface for displaying the log in a human-readable way (including links to file snapshots)
 
